@@ -638,14 +638,34 @@ inline size_t Mat::total() const
 {
     return cstep * c;
 }
-
+static int counter = 0;
 inline Mat Mat::channel(int c)
 {
+	char dataname[1024];
 	if (Debug_ONESHOT<3) {
 		Debug_ONESHOT++;
 		MTCNN_LOG("Debug_ONESHOT:%d:(w:%d,h:%d) cstep:%d, elemsize:%d, c:%d\n", Debug_ONESHOT,w, h, cstep, elemsize, c);
 	}
-	save_data_file("image_mat.dat", cstep, (void*)data);
+	sprintf(dataname,"image_mat.dat%d_%d", Debug_ONESHOT,counter++); // 注意这里的%d,而不能用%s
+#if 0
+	switch (/*counter*/0) {
+	case 0:
+		sprintf(dataname, "image_mat.000_dat%s", Debug_ONESHOT);
+		break;
+	case 1:
+		sprintf(dataname, "image_mat.001_dat%s", Debug_ONESHOT);
+		break;
+	case 2:
+		sprintf(dataname, "image_mat.002_dat%s", Debug_ONESHOT);
+		break;
+	default:
+		sprintf(dataname, "image_mat.default_dat%s", Debug_ONESHOT);
+		break;
+	}
+	//counter++;
+#endif
+	MTCNN_LOG("dataname:%s\n", dataname);
+	save_data_file(dataname, cstep, (void*)data);
     return Mat(w, h, (unsigned char*)data + cstep * c * elemsize, elemsize);
 }
 
