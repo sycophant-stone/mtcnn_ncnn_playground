@@ -646,7 +646,7 @@ inline Mat Mat::channel(int c)
 		Debug_ONESHOT++;
 		MTCNN_LOG("Debug_ONESHOT:%d:(w:%d,h:%d) cstep:%d, elemsize:%d, c:%d\n", Debug_ONESHOT,w, h, cstep, elemsize, c);
 	}
-	sprintf(dataname,"image_mat.dat%d_%d", Debug_ONESHOT,counter++); // 注意这里的%d,而不能用%s
+	sprintf(dataname,"image_mat.dat%d_c%d_%d", Debug_ONESHOT,c,counter++); // 注意这里的%d,而不能用%s
 #if 0
 	switch (/*counter*/0) {
 	case 0:
@@ -665,7 +665,7 @@ inline Mat Mat::channel(int c)
 	//counter++;
 #endif
 	MTCNN_LOG("dataname:%s\n", dataname);
-	save_data_file(dataname, cstep, (void*)data);
+	//save_data_file(dataname, cstep, (void*)((unsigned char*)data + cstep * c * elemsize));
     return Mat(w, h, (unsigned char*)data + cstep * c * elemsize, elemsize);
 }
 

@@ -506,6 +506,7 @@ static Mat from_rgb2bgr(const unsigned char* rgb, int w, int h)
         ptr2++;
     }
 
+
     return m;
 }
 
@@ -532,6 +533,22 @@ static void to_bgr2rgb(const Mat& m, unsigned char* rgb)
         ptr1++;
         ptr2++;
     }
+	// BGRBGRBGR
+	//rgb[2];  R
+	//rgb[1];  G
+	//rgb[0];  B
+	// 
+	//   ==>  RRRRR
+	//   ==>  GGGGG
+	//   ==>  BBBBB
+
+	char dataname[1024];
+	sprintf(dataname, "inputImage_%c", "R");
+	save_data_file(dataname, size, (void*)ptr0);
+	sprintf(dataname, "inputImage_%c", "G"); // 注意这里的%d,而不能用%s
+	save_data_file(dataname, size, (void*)ptr1);
+	sprintf(dataname, "inputImage_%c", "B"); // 注意这里的%d,而不能用%s
+	save_data_file(dataname, size, (void*)ptr2);
 
 #undef SATURATE_CAST_UCHAR
 }
