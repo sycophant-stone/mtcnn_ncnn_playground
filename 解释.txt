@@ -1,0 +1,12 @@
+https://github.com/moli232777144/mtcnn_ncnn
+
+## 编译环境
+1. 打开`\c++\mtcnn_ncnn\3rdparty\src\ncnn\build`下的ncnn.sln
+在里边修改,然后编译.
+2. 利用`c++\mtcnn_ncnn\vs2015_withopencv3_3\Release\sync_ncnn_lib.cmd`脚本把1中生成的ncnn.lib
+拷贝到`c++\mtcnn_ncnn\3rdparty\lib`
+3. 注意此时直接运行2中的mtcnn_ncnn.exe的话,1中的修改是不生效的.应该在这之前再把
+`c++\mtcnn_ncnn\vs2015_withopencv3_3\mtcnn_ncnn.sln`编译一下.
+
+## 遇到log提示未定义标识符
+#include <stdio.h>

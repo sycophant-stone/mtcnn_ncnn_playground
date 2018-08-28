@@ -1,0 +1,4 @@
+﻿  main.cc
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+  protoc.vcxproj -> D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\cmake\build\Release\protoc.exe

@@ -1,0 +1,72 @@
+﻿  Building Custom Rule D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/CMakeLists.txt
+  CMake does not need to re-run because D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/generate.stamp is up-to-date.
+  arena.cc
+  arenastring.cc
+  extension_set.cc
+  generated_message_table_driven_lite.cc
+  generated_message_util.cc
+  implicit_weak_message.cc
+  coded_stream.cc
+  zero_copy_stream.cc
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\extension_set.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\arenastring.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\generated_message_table_driven_lite.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\arena.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\io\coded_stream.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\io\zero_copy_stream.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\generated_message_util.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\implicit_weak_message.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\arena.cc)
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\io\zero_copy_stream.cc)
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\arenastring.cc)
+  zero_copy_stream_impl_lite.cc
+G:\tools\virtualStudio2015\VC\include\iosfwd(343): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\generated_message_util.cc)
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\io\coded_stream.cc)
+G:\tools\virtualStudio2015\VC\include\iosfwd(343): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\implicit_weak_message.cc)
+  message_lite.cc
+  repeated_field.cc
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\io\zero_copy_stream_impl_lite.cc)
+  bytestream.cc
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\generated_message_table_driven_lite.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\repeated_field.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\extension_set.cc)
+  common.cc
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\bytestream.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\message_lite.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\io\zero_copy_stream_impl_lite.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\common.cc)
+  int128.cc
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\bytestream.cc)
+  io_win32.cc
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\repeated_field.cc)
+  status.cc
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\int128.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\status.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\message_lite.cc)
+  statusor.cc
+  stringpiece.cc
+  stringprintf.cc
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\common.cc)
+  structurally_valid.cc
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\int128.cc)
+G:\tools\virtualStudio2015\VC\include\iosfwd(343): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\status.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\statusor.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\stringpiece.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\io_win32.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\stringprintf.cc)
+  strutil.cc
+  time.cc
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\structurally_valid.cc)
+  wire_format_lite.cc
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\statusor.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\time.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\strutil.cc)
+G:\tools\virtualStudio2015\VC\include\iosfwd(343): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\stringpiece.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\io_win32.cc)
+G:\tools\virtualStudio2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\wire_format_lite.cc)
+G:\tools\virtualStudio2015\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\stringprintf.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\structurally_valid.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\time.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\stubs\strutil.cc)
+G:\tools\virtualStudio2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\src\google\protobuf\wire_format_lite.cc)
+  libprotobuf-lite.vcxproj -> D:\work\stuff\modules\misc\sprd_camera\alg\july\mtcnn\002_mtcnn_code\c++\mtcnn_ncnn\3rdparty\src\protobuf\cmake\build\Debug\libprotobuf-lited.lib

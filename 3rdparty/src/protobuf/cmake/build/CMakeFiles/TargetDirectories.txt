@@ -1,0 +1,7 @@
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/protoc.dir
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/libprotobuf-lite.dir
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/libprotoc.dir
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/libprotobuf.dir
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/INSTALL.dir
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/ALL_BUILD.dir
+D:/work/stuff/modules/misc/sprd_camera/alg/july/mtcnn/002_mtcnn_code/c++/mtcnn_ncnn/3rdparty/src/protobuf/cmake/build/CMakeFiles/ZERO_CHECK.dir
